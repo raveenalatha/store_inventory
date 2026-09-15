@@ -9,6 +9,24 @@ step 2 : cmd command prompt(composer create-project laravel/laravel Store-Invent
 Step 3 : Th Heidisql Manualy Create database and Create.
 php project run command : php -S localhost:8000 -t public
 
+## Demo Video
+
+[Watch the Store Inventory Demo Video](https://raveenalatha.github.io/store_inventory_demovideo/)
+
+The demo covers:
+
+- User login
+- Product catalog and stock display
+- Creating a customer order
+- Order total and tax calculation
+- Automatic stock deduction
+- Insufficient stock validation
+- Order history by customer email
+- Low-stock product display
+- Queue worker and confirmation mail logging
+- Automated test execution
+
+
 ## 1. Requirements
 
 - PHP 7.4 or 8.0+
